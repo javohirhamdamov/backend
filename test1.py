@@ -1,6 +1,3 @@
-a = int(input("Raqam kiriting "))
+men = "Open bunjedga bitta ovoz {price} so'm"
 
-if a % 2 == 1:
-    print('kiritilgan raqam toq')
-else :
-    print('kiritilgan raqam juft')
+print(men.format(price=30000))
