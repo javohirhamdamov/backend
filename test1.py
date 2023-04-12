@@ -1,3 +1,3 @@
-men = "Open bunjedga bitta ovoz {price} so'm"
+men = "DI1220"
 
-print(men.format(price=30000))
+print(men.isalnum())
