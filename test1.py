@@ -1,3 +1,3 @@
-men = "DI1220"
+men = "3-bosqich"
 
-print(men.isalnum())
+print ( men.isalpha() )
